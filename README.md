@@ -1,2 +1,4 @@
 # Machine-Learning
-All the codes i code for competative questions.
+All the codes i have code for competative questions.
+And codes from different assignments.
+
